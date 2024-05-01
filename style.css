@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+}
+
+.row {
+    padding-left: 43%;
+    padding-top: 300px;
+}
+
+.counter {
+    font-size: 50px;
+}
+
+.decrement {
+    border: 2px solid darkred;
+    background-color: red;
+    border-radius: 10px;
+   font-size: 50px;
+   width: 100px;
+   margin: 20px;
+    
+}
+
+.increment {
+    border: 2px solid darkgreen;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 50px;
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+}
